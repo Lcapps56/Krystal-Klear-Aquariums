@@ -1,7 +1,17 @@
 body {
     margin: 0 auto;
 }
-
+.header {
+    color: lightblue;
+    margin-top: 30px;
+}
+.col-md-8 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.list-overflow-container {
+    text-align: left;
+}
 .noteList {
     margin-top: 20px;
 }
